@@ -1,6 +1,6 @@
 # Machine Learning (Standford University) on Coursera.
 
-I have taken the Machine learning en coursera course, by Andrew Ng from standford university. 
+I have taken the Machine learning course on Coursera, by Andrew Ng from Standford University. 
 
 Course content:
 - Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). 
